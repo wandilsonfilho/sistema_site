@@ -1,2 +1,2 @@
 # sistema_site
-projetinho de site pessoal para o Portifólio - GIt
+projetinho de site pessoal para o Portifólio - GIT para WEB
